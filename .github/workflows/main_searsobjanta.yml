@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'searsobjanta'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_402481668BC74D10A90B1EB4C0923CDC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_43BF5D022331409B930044A35C1A3BE6 }}
