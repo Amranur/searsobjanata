@@ -63,7 +63,7 @@ search:
     # Cloudflare CAPTCHA
     cf_SearxEngineCaptcha: 1296000
     cf_SearxEngineAccessDenied: 86400
-    # ReCAPTCHA
+    # ReCAPTCHA 
     recaptcha_SearxEngineCaptcha: 604800
 
   # remove format to deny access, use lower case.
